@@ -1,0 +1,2 @@
+# goPrac
+Practice golang
